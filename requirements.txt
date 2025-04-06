@@ -1,3 +1,4 @@
 drf_yasg
 django-cors-headers
 djangorestframework
+django>=5.0.14 # not directly required, pinned by Snyk to avoid a vulnerability
